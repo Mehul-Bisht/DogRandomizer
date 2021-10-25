@@ -51,10 +51,13 @@ class RandomDogActivity : AppCompatActivity() {
                             binding.progress.visible()
                         }
                         is DogState.Success -> {
+                            Glide.with(binding.root)
+                                .clear(binding.image)
                             binding.progress.gone()
                             Glide.with(binding.root)
                                 .load(state.data.imageUrl)
                                 .transition(DrawableTransitionOptions.withCrossFade())
+                                .placeholder(R.drawable.loader)
                                 .error(R.drawable.ic_error_load)
                                 .into(binding.image)
                         }
