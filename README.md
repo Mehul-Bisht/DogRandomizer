@@ -16,3 +16,8 @@ https://drive.google.com/file/d/1oMyU3VMArhBOltCApf0w58VXdrsZZqYr/view?usp=share
 # :camera_flash: Screenshots
 
 <img src="https://user-images.githubusercontent.com/65572088/221437910-61fa251e-089d-4df5-b485-6972acd7de68.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/65572088/221437917-9370ad87-4d44-4c60-9130-06ca97da6b88.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/65572088/221437924-8baabc25-8d89-4295-b5ed-b8aa1100f4b4.png" width="260">
+
+
+# :video_camera: Recording from the app
+
+https://user-images.githubusercontent.com/65572088/221438481-8b6a1fcb-ffc9-4865-8c5a-bf679c3ca980.mp4
