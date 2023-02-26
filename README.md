@@ -10,8 +10,8 @@ In this demo app, MVVM (Model-View-ViewModel) architecture is used, and SOLID pr
 # Testing Framework used:
 JUnit 4 is used, along with Espresso library, Kotlin coroutines and Dagger Hilt testing libraries. Google's Truth library is used for assertions.
 
-# Link to the release APK:
-https://drive.google.com/file/d/11cAxW-4Pg4NaK0wFTAquGOjVypdgd0lg/view?usp=sharing
+# Link to the APK:
+https://drive.google.com/file/d/1oMyU3VMArhBOltCApf0w58VXdrsZZqYr/view?usp=share_link
 
 # :camera_flash: Screenshots
 
