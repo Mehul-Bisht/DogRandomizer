@@ -15,6 +15,4 @@ https://drive.google.com/file/d/11cAxW-4Pg4NaK0wFTAquGOjVypdgd0lg/view?usp=shari
 
 # :camera_flash: Screenshots
 
-<img src="https://user-images.githubusercontent.com/65572088/221437910-61fa251e-089d-4df5-b485-6972acd7de68.png" width="260">
-<img src="https://user-images.githubusercontent.com/65572088/221437917-9370ad87-4d44-4c60-9130-06ca97da6b88.png" width="260">
-<img src="https://user-images.githubusercontent.com/65572088/221437924-8baabc25-8d89-4295-b5ed-b8aa1100f4b4.png" width="260">
+<img src="https://user-images.githubusercontent.com/65572088/221437910-61fa251e-089d-4df5-b485-6972acd7de68.png" width="260"><img src="https://user-images.githubusercontent.com/65572088/221437917-9370ad87-4d44-4c60-9130-06ca97da6b88.png" width="260"><img src="https://user-images.githubusercontent.com/65572088/221437924-8baabc25-8d89-4295-b5ed-b8aa1100f4b4.png" width="260">
